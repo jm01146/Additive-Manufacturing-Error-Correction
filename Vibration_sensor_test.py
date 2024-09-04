@@ -1,3 +1,5 @@
+# This file is for another error detection project with FIU BIO-MEMS Lab
+# This is the data collection test to see if the data makes sense
 import serial
 import time
 #from mpu6050 import mpu6050
