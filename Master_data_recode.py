@@ -1,3 +1,4 @@
+# This file is for another error detection project with FIU BIO-MEMS Lab
 import time
 import serial
 import threading
