@@ -1,3 +1,5 @@
+# This file is for another error detection project with FIU BIO-MEMS Lab
+# This is testing how the mpu6050 works to integrate it to other projects
 from mpu6050 import mpu6050
 import time
 mpu = mpu6050(0x68)
