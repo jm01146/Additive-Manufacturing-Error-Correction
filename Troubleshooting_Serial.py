@@ -1,3 +1,5 @@
+# This file is for another error detection project with FIU BIO-MEMS Lab
+# This is the communication portion of the code
 import serial
 import time
 
